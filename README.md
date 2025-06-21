@@ -1,20 +1,19 @@
 ✅ Completed
 
-Imported required libraries: gc, sys
 
-Explained memory management and object lifecycle in Python
+Imported essential libraries: TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Scikit-learn, and Gradio
 
-Demonstrated reference counting with examples
+Loaded and extracted dataset from a zip file
 
-Introduced the gc module and its usage
+Set up for model training with transfer learning using EfficientNetV2B2
 
-Showed how circular references can lead to memory leaks
+Prepared for model evaluation using confusion_matrix and classification_report
 
-Provided simple code snippets to illustrate concepts
-
+Started interface integration using Gradio
 
 
 📊 Status
+
 
 Core concepts and examples are complete. Next steps focus on:
 

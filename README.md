@@ -1,4 +1,5 @@
 ✅ Completed
+
 Imported required libraries: gc, sys
 
 Explained memory management and object lifecycle in Python
@@ -11,7 +12,10 @@ Showed how circular references can lead to memory leaks
 
 Provided simple code snippets to illustrate concepts
 
+
+
 📊 Status
+
 Core concepts and examples are complete. Next steps focus on:
 
 Model training 

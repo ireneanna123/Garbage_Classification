@@ -1,4 +1,4 @@
-✅ Completed
+Week 1 Status 📊
 
 
 Imported essential libraries: TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Scikit-learn, and Gradio
@@ -12,10 +12,10 @@ Prepared for model evaluation using confusion_matrix and classification_report
 Started interface integration using Gradio
 
 
-📊 Status
+Week 2 Status 📊
 
 
-Core concepts and examples are complete. Next steps focus on:
+Completed:
 
 Model training 
 

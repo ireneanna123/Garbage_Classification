@@ -1,24 +1,29 @@
-Week 1 Status 📊
-
-
+📅 Week 1 Status 📊
 Imported essential libraries: TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Scikit-learn, and Gradio
 
-Loaded and extracted dataset from a zip file
+Loaded and extracted dataset from a ZIP file
 
-Set up for model training with transfer learning using EfficientNetV2B2
+Set up model training using transfer learning with EfficientNetV2B2
 
-Prepared for model evaluation using confusion_matrix and classification_report
+Prepared evaluation pipeline using confusion_matrix and classification_report
 
-Started interface integration using Gradio
+Initiated basic interface integration using Gradio
 
+📅 Week 2 Status 📊
+Completed initial model training using EfficientNetV2B2
 
-Week 2 Status 📊
+Performed performance evaluation and extracted classification metrics
 
+Visualized memory usage patterns and garbage collection (GC) effects during training
 
-Completed:
+📅 Week 3 Status 📊
+Implemented model improvement strategy by switching to a more advanced architecture: EfficientNetV2B3
 
-Model training 
+Performed selective fine-tuning of upper layers for improved generalization
 
-Performance evaluation
+Tuned hyperparameters including learning rate, dropout, and callback functions
 
-Visualization of memory usage and GC effects
+Achieved improved accuracy and validation performance over previous model
+
+Updated evaluation metrics and visualizations for the new model
+
